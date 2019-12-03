@@ -143,3 +143,4 @@ void extract_chars(char* s, char* a, char* d, char* p, char* w) {
    p[punc] = '\0';
    w[wh] = '\0';
    
+}
